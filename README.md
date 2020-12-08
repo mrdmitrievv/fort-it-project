@@ -1,1 +1,1 @@
-SPA application using Vue, Vuex, Bootsrap + SCSS, Webpack
+Adaptive SPA application using Vue, Vuex, Bootsrap + SCSS, Webpack
